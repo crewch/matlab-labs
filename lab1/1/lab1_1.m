@@ -1,5 +1,3 @@
-clear all; close all;
-
 %% 1. Загрузка изображения
 inputImagePath = 'Pic_22_1.bmp';
 originalImage = im2double(imread(inputImagePath));

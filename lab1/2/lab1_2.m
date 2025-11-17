@@ -1,5 +1,3 @@
-clear all; close all;
-
 %% Загрузка изображения
 inputImagePath = 'Pic_22_2.jpg';
 originalImage = im2double(imread(inputImagePath));
